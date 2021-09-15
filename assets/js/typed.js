@@ -33,7 +33,7 @@
      *************************/
     $(function () {
         $(".typed-resume").typed({
-            strings: ["objective-c, json, html, css"],
+            strings: ["objective-c, SwiftUI"],
             stringsElement: null,
             typeSpeed: 120,
             backSpeed: 30,
